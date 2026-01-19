@@ -50,5 +50,6 @@ Numerical methods implementations (root finding, interpolation, integration)
 Sensor-based measurement systems (temperature & humidity)
 
 Digital design and logic-based academic projects
-![Custom Badge] (https://www.credly.com/badges/027d017f-3098-45e6-b6d3-666d29f465d8/public_url)
+
+![Custom Badge](https://www.credly.com/badges/027d017f-3098-45e6-b6d3-666d29f465d8/public_url)
 
