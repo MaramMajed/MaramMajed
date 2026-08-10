@@ -32,7 +32,7 @@ Currently preparing for engineering internships, especially roles involving hard
 - SolidWorks
 - Excel
 - PVsys
-- Autocad LT
+- AutoCAD LT
 
 
 ## 🎓 Senior Project
