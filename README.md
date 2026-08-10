@@ -1,53 +1,41 @@
-### 👋 Hi, I’m Eng. Maram
+# Hi, I'm Maram Althubyani 👋
 
 🎓 Senior Electrical & Computer Engineering Student
-🔧 Hardware | 💻 Software| 🤖 AI
+🔧 Hardware | 💻 Software | 🤖 AI
 
 ## 🚀 About Me
 
-I’m an Electrical & Computer Engineering senior focused on turning theory into working systems. I have a solid foundation in embedded systems, digital desig
-Currently preparing for engineering internships, especially roles involving hardware, embedded systems, and system-level problem solving.
+I'm an Electrical & Computer Engineering senior focused on turning theory into working systems. I have a solid foundation in embedded systems, digital design, and software development, and I enjoy solving problems that span both hardware and software layers.
 
+Currently preparing for engineering internships, especially roles involving hardware, embedded systems, and system-level problem solving.
 
 ## 🧠 Technical Skills
 
-🛠️ Hardware & Embedded
+### 🛠️ Hardware & Embedded
+- Microcontrollers (PIC, basic RISC-V, basic ladder)
+- Digital Logic Design & Verilog
+- Circuit Design & Analysis
+- Sensor Interfacing & I/O Control
+- Soldering and hardware debugging
 
-  Microcontrollers (PIC, basic RISC-V)
 
-  Digital Logic Design & Verilog
+### 💻 Software & Programming
+- C / C++ / Java / Python
+- MATLAB / Octave
+- Assembly (PIC, RISC-V fundamentals)
+- Numerical Methods & Algorithmic Problem Solving
+- ladder
 
-  Circuit Design & Analysis
+### 🧰 Tools & Platforms
+- Proteus, MPLAB, MikroC
+- MATLAB / Octave
+- SolidWorks
+- Excel
+- PVsys
+- Autocad LT
 
-  Sensor Interfacing & I/O Control
 
-  Soldering and hardware debugging
+## 🎓 Senior Project
 
-💻 Software & Programming
-
-  C / C++ / Java / Python
-
-  MATLAB / Octave
-
-  Assembly (PIC, RISC-V fundamentals)
-
-  Numerical Methods & Algorithmic Problem Solving
-
-🧰 Tools & Platforms
-
-Proteus
-MPLAB / MikroC
-MATLAB / Octave
-SolidWorks
-Excel 
-
-📌 Project Highlights
-
-Embedded systems projects using PIC microcontrollers
-
-Numerical methods implementations (root finding, interpolation, integration)
-
-Sensor-based measurement systems (temperature & humidity)
-
-Digital design and logic-based academic projects
-
+### Automated Food Packing System
+An embedded system designed to automate the food packaging process, integrating sensor input, control logic, and mechanical actuation to reduce manual handling and improve packing consistency and throughput.
