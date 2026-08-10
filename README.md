@@ -31,7 +31,7 @@ Currently preparing for engineering internships, especially roles involving hard
 - MATLAB / Octave
 - SolidWorks
 - Excel
-- PVsys
+- PVsyst
 - AutoCAD LT
 
 
